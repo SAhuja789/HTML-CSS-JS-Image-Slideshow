@@ -22,5 +22,3 @@ function showSlides(n) {
 }
 
 console.log("Link for Tutorial: https://www.w3schools.com/howto/howto_js_slideshow.asp");
-
-// You may edit and add to this script if you are to use it as your main script file
